@@ -21,5 +21,5 @@
 		"scripts/main.js"
 	],
 	"url": "https://github.com/Ranger11Danger/foundry_dice",
-  "manifest": "https://raw.githubusercontent.com/Ranger11Danger/foundry_dice/main/module.json",
+  	"manifest": "https://raw.githubusercontent.com/Ranger11Danger/foundry_dice/main/module.json"
 }
