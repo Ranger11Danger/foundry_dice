@@ -20,7 +20,7 @@
 	"scripts": [
 		"scripts/main.js"
 	],
-	"url": "https://github.com/Ranger11Danger/foundry_dice/",
+	"url": "https://github.com/Ranger11Danger/foundry_dice",
 	"manifest": "https://raw.githubusercontent.com/Ranger11Danger/foundry_dice/main/Ranger11Danger_Dice/module.json",
 	"download": "https://raw.githubusercontent.com/Ranger11Danger/foundry_dice/main/Ranger11Danger_Dice.zip"
 }
