@@ -1,0 +1,25 @@
+ {
+    "name": "Ranger11Danger",
+    "title": "Ranger11Dangers's FUCK/YEET for Dice So Nice",
+    "description": "Adds custom text to change the 1 and 20 to FUCK and YEET",
+    "version": "0.1",
+	"author": "Lor",
+	"authors": [
+		{
+			"name":"Ranger11Danger",
+		}
+	],
+	"minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+	"dependencies": [
+			{
+			  "name": "dice-so-nice",
+			  "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+			}
+	],
+	"scripts": [
+		"scripts/main.js"
+	],
+	"url": "https://github.com/Ranger11Danger/foundry_dice",
+  "manifest": "https://raw.githubusercontent.com/Ranger11Danger/foundry_dice/main/module.json",
+}
