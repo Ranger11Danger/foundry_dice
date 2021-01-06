@@ -4,7 +4,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
     type: "d20",
     labels: [
-      "modules/Ranger11Danger_Dice/textures/fuck_text.webp",
+      "modules/Ranger11Danger/textures/fuck_text.webp",
       "2",
       "3",
       "4",
@@ -25,7 +25,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       "19",
 	  "20"
     ],
-	bumpMaps: ["modules/Ranger11Danger_Dice/textures/fuck_text_bump.webp",,,,,,,,,,,,,,,,,,,],
+	bumpMaps: ["modules/Ranger11Danger/textures/fuck_text_bump.webp",,,,,,,,,,,,,,,,,,,],
     system: "Ranger11Danger",
 	fontScale: 1.0
    },"d20");
