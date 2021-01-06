@@ -23,9 +23,9 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       "17",
       "18",
       "19",
-	  "20"
+	  "modules/Ranger11Danger/textures/yeet_text.webp"
     ],
-	bumpMaps: ["modules/Ranger11Danger/textures/fuck_text_bump.webp",,,,,,,,,,,,,,,,,,,],
+	bumpMaps: ["modules/Ranger11Danger/textures/fuck_text_bump.webp",,,,,,,,,,,,,,,,,,,"modules/Ranger11Danger/textures/yeet_text_bump.webp"],
     system: "Ranger11Danger",
 	fontScale: 1.0
    },"d20");
